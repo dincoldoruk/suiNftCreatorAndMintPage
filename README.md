@@ -12,6 +12,9 @@ Client dApp using the following tools:
   wallets and loading data
 - [pnpm](https://pnpm.io/) for package management
 
+## Sui NFT Creator And Wallet Connect Page
+- It is a test project designed to create an NFT on the SUI network and show its details on a page you connect to with your wallet.
+
 ## Starting your dApp
 
 To install dependencies you can run
